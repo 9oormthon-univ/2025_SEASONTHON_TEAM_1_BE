@@ -36,5 +36,6 @@ out/
 ### VS Code ###
 .vscode/
 
-# Local Spring profiles
-src/main/resources/application-local.yml
+## Local ###
+/src/main/resources/application-local.yml
+/src/main/resources/properties/env.properties
